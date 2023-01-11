@@ -1,0 +1,7 @@
+{
+  "translation": {
+    "app.features.UserTable.title": "Cписок пользователей",
+    "app.features.UserTable.description": "Виртуальные пользователи с сервиса jsonplaceholder",
+    "app.features.UserTable.searchPlaceholder": "Поиск..."
+  }
+}
